@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serial Scanner</string>
+    <string name="perm_title">ক্যামেরার অনুমতি দরকার</string>
+    <string name="perm_body">বারকোড স্ক্যান করতে ক্যামেরা ব্যবহার করা হবে। কোনো ছবি বা ভিডিও সংরক্ষণ বা কোথাও পাঠানো হয় না।\n\nCamera access is needed to scan barcodes. No photo or video is saved or sent anywhere.</string>
+    <string name="perm_grant">অনুমতি দিন (Allow)</string>
+    <string name="perm_denied">ক্যামেরার অনুমতি দেওয়া হয়নি। আপনি এখনও গ্যালারি থেকে ছবি স্ক্যান করতে পারবেন।\n\nCamera permission was denied. You can still scan from a gallery photo, or enable it in Settings.</string>
+    <string name="perm_settings">সেটিংস খুলুন (Settings)</string>
+    <string name="copy_all">সব কপি করুন</string>
+    <string name="clear_all">সব মুছুন</string>
+    <string name="from_gallery">গ্যালারি থেকে স্ক্যান</string>
+    <string name="list_title">স্ক্যান করা তালিকা (%1$d)</string>
+    <string name="empty_list">এখনও কিছু স্ক্যান করা হয়নি। বারকোডের দিকে ক্যামেরা ধরুন।</string>
+    <string name="copy">কপি</string>
+    <string name="copied">কপি হয়েছে</string>
+    <string name="all_copied">সব কপি হয়েছে (%1$d টি)</string>
+    <string name="list_empty_toast">তালিকা খালি</string>
+    <string name="nothing_found">কোনো বারকোড পাওয়া যায়নি</string>
+    <string name="confirm_title">সব মুছবেন?</string>
+    <string name="confirm_body">তালিকার সব %1$d টি আইটেম মুছে যাবে।</string>
+    <string name="yes_delete">হ্যাঁ, মুছুন</string>
+    <string name="cancel">বাতিল</string>
+</resources>
